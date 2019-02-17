@@ -1,6 +1,8 @@
 # カメラ
 カメラを仮想世界で飛ばして3Dの世界を眺めてみます。
 
+https://webglstudy.github.io/06_camera/
+
 ![結果画像](result.gif)
 
 # 課題
